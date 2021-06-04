@@ -25,8 +25,8 @@ module.exports = (client) => {
     const guildonlycounter = new Map();
     client.on("ready", () => {
         console.log(`Bot User ${client.user.username} has been logged in and is ready to use!`);
-        client.user.setActivity(`${config.prefix}help | NB MUSIC 24/7 `, {
-            type: 'PMCL FREE TOORNAMNET REGISTRATION JOIN dicord.gg/U4CF3HdR7m'
+        client.user.setActivity(`${config.prefix}help | JOIN dicord.gg/U4CF3HdR7m  `, {
+            type: 'PMCL FREE TOORNAMNET REGISTRATION '
         });
     });
     client.distube
