@@ -25,7 +25,7 @@ module.exports = (client) => {
     const guildonlycounter = new Map();
     client.on("ready", () => {
         console.log(`Bot User ${client.user.username} has been logged in and is ready to use!`);
-        client.user.setActivity(`${config.prefix}PMCL FREE TOORNAMNET REGISTRATION HERE | dicord.gg/U4CF3HdR7m `, {
+        client.user.setActivity(`${config.prefix}MCL FREE TOORNAMNET REGISTRATION HERE | ibullgaming.leprox.net `, {
             type: 'WATCHING'
         });
     });
