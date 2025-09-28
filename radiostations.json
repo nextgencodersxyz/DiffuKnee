@@ -1,6 +1,7 @@
 {
 
   "Radiostations": [
+      "Indian-radio http://peridot.streamguys.com:7150/Mirchi",  
       "Standard-Radio https://streams.ilovemusic.de/iloveradio14.mp3",
       "Base-Radio.de https://baseradiode.stream.laut.fm/baseradiode",
       "Chill-Radio https://streams.ilovemusic.de/iloveradio17.mp3",
@@ -269,6 +270,7 @@
   },
   "OTHERS": {
     "request": [
+      "Radio Mirchi 98.3 FM INDIA http://peridot.streamguys.com:7150/Mirchi",	    
       "I-love-Radio-104 https://streams.ilovemusic.de/iloveradio104.mp3",
       "Europa-2 http://stream.radioservices.sk/europa2.mp3",
       "Desizone http://www.desizone.nl:8000//;?type=http&nocache=175387",
